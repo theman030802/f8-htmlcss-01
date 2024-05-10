@@ -1,0 +1,41 @@
+<svg width="21" height="16" viewBox="0 0 21 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="21" height="16" fill="#E5E5E5"/>
+<g id="Real-Estate Landing Page v2" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4324" transform="translate(-565 -2368)" fill="white"/>
+<g id="Feature 01">
+<g id="Feature 01_2">
+<rect id="bg" x="-565" y="-575" width="1440" height="727" fill="#F5FAFE"/>
+<g id="cards">
+<g id="card 02">
+<g id="Rectangle 65" filter="url(#filter0_d_0_1)">
+<rect x="-20" y="-315" width="350" height="357" rx="12" fill="white"/>
+</g>
+<g id="beds and both]">
+<g id="beds">
+<g id="Group 457">
+<path id="Rectangle 73 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M18.6817 6.42241H2.73025C2.44333 6.42241 2.21074 6.655 2.21074 6.94192V13.4181C2.21074 13.705 2.44333 13.9376 2.73025 13.9376H18.6817C18.9686 13.9376 19.2012 13.705 19.2012 13.4181V6.94192C19.2012 6.655 18.9686 6.42241 18.6817 6.42241ZM2.73025 4.62183C1.4489 4.62183 0.410156 5.66057 0.410156 6.94192V13.4181C0.410156 14.6995 1.4489 15.7382 2.73025 15.7382H18.6817C19.963 15.7382 21.0017 14.6995 21.0017 13.4181V6.94192C21.0017 5.66057 19.963 4.62183 18.6817 4.62183H2.73025Z" fill="#0688FF"/>
+<path id="Rectangle 74 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M15.5061 2.10722H5.90695C5.62003 2.10722 5.38744 2.33982 5.38744 2.62674V4.63985H16.0256V2.62674C16.0256 2.33982 15.793 2.10722 15.5061 2.10722ZM5.90695 0.306641C4.6256 0.306641 3.58685 1.34538 3.58685 2.62674V6.44043H17.8262V2.62674C17.8262 1.34538 16.7875 0.306641 15.5061 0.306641H5.90695Z" fill="#0688FF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-54" y="-315" width="418" height="456" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="46" operator="erode" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dy="65"/>
+<feGaussianBlur stdDeviation="40"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.885625 0 0 0 0 0.935278 0 0 0 0 0.975 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4324" fill="white" transform="translate(-565 -2368)"/>
+</clipPath>
+</defs>
+</svg>
